@@ -4,7 +4,7 @@
 ## Contact Information
 📫 How to reach me ...
 - Email: prabhukumar424@gmail.com
-- LinkedIn: [Prabhu kumar Renumala](www.linkedin.com/in/prabhu-kumar-a71b10a3)
+- LinkedIn: [Prabhu kumar Renumala](https://www.linkedin.com/in/prabhu-kumar-a71b10a3?original_referer=)
 
 ## About Me
 
