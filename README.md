@@ -12,7 +12,7 @@ I am an entusiast towards new technologies and building cool stuff.
 
 ## Skills
 
--AWS: IAM, S3, EC2, VPC, ECS and ASG.
+-AWS: IAM, S3, EC2, VPC, ECS, ASG and Networking.
 - SERVERLESS COMPUTING: Lambda, SQS and SNS.
 - Infrastructure as code: Terraform.
 - DATABASE: DynamoDB and RDS.
